@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace ContinuitySingularityInducedMeasuresCanonicalLaneLean
+
+-- Root module for Continuity Singularity Induced Measures
+
+end ContinuitySingularityInducedMeasuresCanonicalLaneLean
+end HautevilleHouse
